@@ -1,6 +1,6 @@
 # Model analysis project
 
-Our project is titled **Solving Stochastic Differential Equations using Monte Carlo Simulation** and is about EXPLAIN.
+Our project is titled **Solving Stochastic Differential Equations using Monte Carlo Simulation**. In this project we show how the Monte Carlo methods can be applied to solve stochastic differential equations. First we implement the simple Euler discretization scheme.
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
