@@ -7,4 +7,5 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 **Dependencies:** 
 * The pydst package is needed to run program. 
 * Pydst can be installed by typing "pip install git+https://github.com/elben10/pydst" in the Anaconda Prompt. 
+
 Apart from the pydst package, only the standard Anaconda Python 3 installation is required.
