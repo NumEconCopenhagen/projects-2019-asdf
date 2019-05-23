@@ -1,13 +1,9 @@
-# Welcome
+# Exam project
 
- 
+This is our exam project.
 
-This is the repository for the group *asdf*. 
 
-The repository contains the following folders:
+The **results** of the project can be seen from running [examproject.ipynb](examproject.ipynb).
 
-* [/dataproject](/dataproject): The data analysis project.
-* [/modelproject](/modelproject): The model analysis project.
-* [/examproject](/examproject): The exam project.
 
- The repository also contains a [Feedback.txt](/Feedback.txt) file with feedback given by each group member
+**Dependencies:** Apart from a standard Anaconda Python 3 installation the project requires no further installations.
